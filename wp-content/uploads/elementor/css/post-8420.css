@@ -1,0 +1,8 @@
+.elementor-8420 .elementor-element.elementor-element-0f03d7c{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--background-transition:0.3s;}.elementor-8420 .elementor-element.elementor-element-5bb9d2f > .elementor-widget-container{margin:0px 0px 32px 0px;}.elementor-8420 .elementor-element.elementor-element-90d158f{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--background-transition:0.3s;}.elementor-8420 .elementor-element.elementor-element-cf380fc .elementor-heading-title{color:#000000;font-family:"Oravetica Normal", Sans-serif;font-size:6vw;font-weight:600;}.elementor-8420 .elementor-element.elementor-element-9007dbc{font-family:"Arial", Sans-serif;font-size:1.7vw;font-weight:400;}:root{--page-title-display:none;}body.elementor-page-8420:not(.elementor-motion-effects-element-type-background), body.elementor-page-8420 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFF983;}@media(max-width:480px){.elementor-8420 .elementor-element.elementor-element-9007dbc{font-size:16px;}}@media(min-width:481px){.elementor-8420 .elementor-element.elementor-element-90d158f{--content-width:1163px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Oravetica Normal';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('/wp-content/uploads/2024/07/Oravetica-Normal.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
